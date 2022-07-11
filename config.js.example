@@ -1,0 +1,12 @@
+module.exports = {
+token: '' || process.env.TOKEN,
+mongodb: '' || process.env.mongodb,
+prefix: '',
+embedColor: '',
+addbotChannel: '',
+logChannel: '',
+ModRole: '',
+ owner: [
+     ""
+ ]
+}
